@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-roosteragents-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://roosteragents.ai/
+Rooster Agents builds and runs the AI marketing machine behind MON$TER MONEY ambassadors and the Data Kings & Queens, enabling businesses to become the #1 name in their market for monetizing data. The platform automates, optimizes, and outperforms marketing efforts through 25 AI agents managed by Rudy, requiring no dashboard interaction.
+
+**Areas:** AI · Marketing · Automation · SaaS · Data
+
+## roosteragents-ai on APIs.io
+
+Everything profiled for roosteragents-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/roosteragents-ai/](https://apis.io/providers/roosteragents-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [roosteragents-ai Agent Readiness API](https://apis.io/apis/roosteragents-ai/roosteragents-ai-agent-readiness-api/) — The Agent Readiness API from roosteragents-ai — 1 operation(s) for agent readiness.
+- [roosteragents-ai Gateway API](https://apis.io/apis/roosteragents-ai/roosteragents-ai-gateway-api/) — The Gateway API from roosteragents-ai — 2 operation(s) for gateway.
+- [roosteragents-ai MCP API](https://apis.io/apis/roosteragents-ai/roosteragents-ai-mcp-api/) — The Mcp API from roosteragents-ai — 1 operation(s) for mcp.
+- [roosteragents-ai Scan API](https://apis.io/apis/roosteragents-ai/roosteragents-ai-scan-api/) — The Scan API from roosteragents-ai — 2 operation(s) for scan.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Roosteragents Ai Agentic Access](https://apis.io/agentic-access/roosteragents-ai/roosteragents-ai-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Roosteragents Ai Openapi Overlay](https://apis.io/overlays/roosteragents-ai/roosteragents-ai-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [roosteragents-ai API Rules](https://apis.io/rules/roosteragents-ai/roosteragents-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Roosteragents Ai Authentication](https://apis.io/security/roosteragents-ai/roosteragents-ai-authentication/)
+- [Roosteragents Ai Domain Security](https://apis.io/security/roosteragents-ai/roosteragents-ai-domain-security/)
+- [Roosteragents Ai Vulnerability Disclosure](https://apis.io/security/roosteragents-ai/roosteragents-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Roosteragents Ai Plans Pricing](https://apis.io/plans/roosteragents-ai/roosteragents-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://roosteragents.ai/)
+- [Documentation](https://roosteragents.ai/openapi.json)
+- [Getting started](https://roosteragents.ai/whats-included/)
+- [API reference](https://roosteragents.ai/openapi.json)
+- [Pricing](https://roosteragents.ai/help/subscription-billing/pricing-plans/)
+- [Support](https://roosteragents.ai/help/)
+- [Blog](https://roosteragents.ai/blog/)
+- [Security](https://roosteragents.ai/)
+- [Terms of service](https://roosteragents.ai/terms/)
+- [Privacy policy](https://roosteragents.ai/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 52.2** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 45.9 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 50.5 |
+
+**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/roosteragents-ai/](https://apis.io/providers/roosteragents-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for roosteragents-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/roosteragents-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
